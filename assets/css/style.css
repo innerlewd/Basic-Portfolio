@@ -5,7 +5,27 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: black;
-    background: beige;
+    background: whitesmoke;
+}
+#name {
+    text-align: ;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    width: 110px;
+    border: 0, none, black;
+}
+
+header {
+    padding: 40px;
+    background-color: #f4b6aa;
+    border: 20px, none, none;
+}
+
+a {
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
 }
 
 .container {
@@ -19,7 +39,11 @@ body {
 }
 
 #profile-picture {
-    width: 150px;
-    height: 150px;
+    width: 125px;
+    height: 125px;
     margin-right: 20px;
+}
+
+form {
+
 }

@@ -38,10 +38,27 @@ a {
     float: left;
 }
 
+#main-bio {
+    border-style: solid;
+    border-color: gray;
+    top: 20;
+}
+
 #profile-picture {
     width: 125px;
     height: 125px;
     margin-right: 20px;
+}
+
+#placeholder1,
+#placeholder2,
+#placeholder3,
+#placeholder4,
+#placeholder5 {
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;s
 }
 
 form {
